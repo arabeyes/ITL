@@ -1,0 +1,9 @@
+[submodule "libs"]
+	path = libs
+	url = http://github.com/arabeyes-org/ITL.git
+[submodule "programs"]
+	path = programs
+	url = http://github.com/arabeyes-org/ITL-programs.git
+[submodule "ports"]
+	path = ports
+	url = http://github.com/arabeyes-org/ITL-ports.git
